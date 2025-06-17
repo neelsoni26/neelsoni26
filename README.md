@@ -24,7 +24,7 @@ I believe in hands-on learning, breaking things in labs before they get broken i
 Here are a few highlights from my recent and ongoing work:
 
 - 🧠 **AI-Based Malware Detection with Explainable AI**  
-  *In Progress – CIS*6670 (ST: Cybersecurity)*  
+  *In Progress – CIS-6670 (ST: Cybersecurity)*  
   Using static analysis of PE files with the EMBER 2018 V2 dataset and a deep learning model in Keras.  
   Integrating SHAP (SHapley Additive exPlanations) to interpret malware classification decisions.  
   Tools: Python, TensorFlow/Keras, SHAP, scikit-learn, Jupyter Notebook.
