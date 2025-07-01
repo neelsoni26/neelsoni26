@@ -29,7 +29,7 @@ Here are a few highlights from my recent and ongoing work:
   Upgradation of the static analysis of PE files with the EMBER 2018 V2 dataset.
   Tools: Python 3.10, Pandas, Scikit-learn, TensorFlow/Keras, LightGBM, MLP, XGBoost, SHAP, Matplotlib, Seaborn, Jupyter Notebook.
 
-- 🧠 **AI Multi Agent**
+- 🤖 **AI Multi Agent**
   An AI-powered multi-agent system designed to automate literature reviews from arXiv. Uses OpenAI models to streamline research tasks by summarizing papers and generating coherent reviews.
   Tools: Python 3.12, Microsoft's AutoGen, OpenAI API, `arxiv` library.
 
