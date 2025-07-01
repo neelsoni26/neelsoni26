@@ -23,14 +23,20 @@ I believe in hands-on learning, breaking things in labs before they get broken i
 
 Here are a few highlights from my recent and ongoing work:
 
-- 🧠 **Hybrid Malware Classification using Static and Dynamic Features** 
-  _Academic Project – CIS-6670 (ST: Cybersecurity)_ 
-  Combines static analysis (EMBER v2) and dynamic behavior (CIC-MalMem 2022) for improved malware detection. Uses machine learning models optimized with SHAP for interpretability. 
-  Upgradation of the static analysis of PE files with the EMBER 2018 V2 dataset. 
+- 🧠 **Hybrid Malware Classification using Static and Dynamic Features**
+
+  _Academic Project – CIS-6670 (ST: Cybersecurity)_
+
+  Combines static analysis (EMBER v2) and dynamic behavior (CIC-MalMem 2022) for improved malware detection. Uses machine learning models optimized with SHAP for interpretability.
+
+  Upgradation of the static analysis of PE files with the EMBER 2018 V2 dataset.
+
   Tools: Python 3.10, Pandas, Scikit-learn, TensorFlow/Keras, LightGBM, MLP, XGBoost, SHAP, Matplotlib, Seaborn, Jupyter Notebook. 
 
 - 🤖 **AI Multi Agent** 
+
   An AI-powered multi-agent system designed to automate literature reviews from arXiv. Uses OpenAI models to streamline research tasks by summarizing papers and generating coherent reviews. 
+
   Tools: Python 3.12, Microsoft's AutoGen, OpenAI API, `arxiv` library. 
 
 - 🧠 **AI-Based Malware Detection with Explainable AI**
