@@ -24,39 +24,39 @@ I believe in hands-on learning, breaking things in labs before they get broken i
 Here are a few highlights from my recent and ongoing work:
 
 - 🧠 **Hybrid Malware Classification using Static and Dynamic Features**  
-  _Academic Project – CIS-6670 (ST: Cybersecurity)_  
-  Combines static analysis (EMBER v2) and dynamic behavior (CIC-MalMem 2022) for improved malware detection. Uses machine learning models optimized with SHAP for interpretability.  
-  Upgradation of the static analysis of PE files with the EMBER 2018 V2 dataset.  
-  Tools: Python 3.10, Pandas, Scikit-learn, TensorFlow/Keras, LightGBM, MLP, XGBoost, SHAP, Matplotlib, Seaborn, Jupyter Notebook.  
+  * _Academic Project – CIS-6670 (ST: Cybersecurity)_  
+  * Combines static analysis (EMBER v2) and dynamic behavior (CIC-MalMem 2022) for improved malware detection. Uses machine learning models optimized with SHAP for interpretability.  
+  * Upgradation of the static analysis of PE files with the EMBER 2018 V2 dataset.  
+  * Tools: Python 3.10, Pandas, Scikit-learn, TensorFlow/Keras, LightGBM, MLP, XGBoost, SHAP, Matplotlib, Seaborn, Jupyter Notebook.  
 
 - 🤖 **AI Multi Agent**  
-  An AI-powered multi-agent system designed to automate literature reviews from arXiv. Uses OpenAI models to streamline research tasks by summarizing papers and generating coherent reviews.  
-  Tools: Python 3.12, Microsoft's AutoGen, OpenAI API, `arxiv` library.   
+  * An AI-powered multi-agent system designed to automate literature reviews from arXiv. Uses OpenAI models to streamline research tasks by summarizing papers and generating coherent reviews.  
+  * Tools: Python 3.12, Microsoft's AutoGen, OpenAI API, `arxiv` library.   
 
 - 🧠 **AI-Based Malware Detection with Explainable AI**  
-  Using static analysis of PE files with the EMBER 2018 V2 dataset and a deep learning model in Keras.  
-  Integrating SHAP (SHapley Additive exPlanations) to interpret malware classification decisions.  
-  Tools: Python, TensorFlow/Keras, SHAP, scikit-learn, Jupyter Notebook.  
+  * Using static analysis of PE files with the EMBER 2018 V2 dataset and a deep learning model in Keras.  
+  * Integrating SHAP (SHapley Additive exPlanations) to interpret malware classification decisions.  
+  * Tools: Python, TensorFlow/Keras, SHAP, scikit-learn, Jupyter Notebook.  
 
 - 🔬 [**APT Detection using ML & Deep Learning**](https://arxiv.org/abs/2504.13408) — *arXiv published research*  
-  Explored opcode-based classification of malware using n-gram ML models and CNNs on static code.  
-  Compared handcrafted features with deep models for malware classification performance.
+  * Explored opcode-based classification of malware using n-gram ML models and CNNs on static code.  
+  * Compared handcrafted features with deep models for malware classification performance.
 
 - 🛠️ **Penetration Testing Labs**  
-  Built buffer overflow exploits, performed privilege escalation, and post-exploitation with Metasploit.  
-  Hands-on with OpenVAS, Nessus, Nmap scripting, and Windows/Linux targets.
+  * Built buffer overflow exploits, performed privilege escalation, and post-exploitation with Metasploit.  
+  * Hands-on with OpenVAS, Nessus, Nmap scripting, and Windows/Linux targets.
 
 - 🔐 **Cryptography with Python + OpenSSL**  
-  Designed secure communication systems using AES (CBC/GCM), RSA, SHA-256, and digital signatures.  
-  Explored vulnerabilities like key reuse and padding oracle.
+  * Designed secure communication systems using AES (CBC/GCM), RSA, SHA-256, and digital signatures.  
+  * Explored vulnerabilities like key reuse and padding oracle.
 
 - 📱 **Biometric Anomaly Detection**  
-  Built a swiping-behavior-based user profiling system using the Touchalytics dataset and scikit-learn.  
-  Evaluated classification robustness and feature engineering for behavioral authentication.
+  * Built a swiping-behavior-based user profiling system using the Touchalytics dataset and scikit-learn.  
+  * Evaluated classification robustness and feature engineering for behavioral authentication.
 
 - 🕵️‍♂️ **Web Application Security**  
-  Performed XSS, CSRF, and SQL Injection attacks on lab applications.  
-  Demonstrated session hijacking, mitigation, and crafted custom payloads.
+  * Performed XSS, CSRF, and SQL Injection attacks on lab applications.  
+  * Demonstrated session hijacking, mitigation, and crafted custom payloads.
 
 > Visit [my CyberTerminal Portfolio](https://neelsoni26.github.io/)
 
