@@ -64,7 +64,7 @@ Here are a few highlights from my recent and ongoing work:
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, Bash, JavaScript, SQL  
+**Languages:** Python, Bash, HTML, CSS, ReactJS, JavaScript, SQL  
 **Cybersecurity Tools:** Metasploit, Wireshark, Burp Suite, Nmap, GHIDRA, OpenVAS, YARA  
 **Platforms:** Linux (Kali, Ubuntu), Windows, MacOS, GitHub Actions  
 **Other:** Git, Regex, LLM Prompt Engineering, Scikit-learn, TensorFlow
